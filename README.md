@@ -24,7 +24,6 @@ The goal of this project is to perform a comprehensive statistical analysis, inc
 
 - **R**: For data analysis, visualization, and statistical modeling.
 - **SQLite**: To manage and query the dataset efficiently.
-- **Jupyter Notebooks**: For documenting the analysis process.
 
 ---
 
